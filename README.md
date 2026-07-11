@@ -1,6 +1,5 @@
 # WCode — Releases
 
-Repo chứa bản phát hành (installer Windows) của WCode.
-Mã nguồn: https://github.com/tuanworlddev/wcode-new
+Bản phát hành (installer Windows) của WCode.
 
 Tải bản mới nhất ở tab **Releases**.
